@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eticaretUygulama", "eticaretUygulama\eticaretUygulama.csproj", "{030A3975-CDAB-45A4-A58C-F788E112ABD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eticaretWebApi", "eticaretWebApi\eticaretWebApi.csproj", "{562BDFB2-F6A9-47BD-9D93-5A1EFE88CB4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030A3975-CDAB-45A4-A58C-F788E112ABD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030A3975-CDAB-45A4-A58C-F788E112ABD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030A3975-CDAB-45A4-A58C-F788E112ABD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030A3975-CDAB-45A4-A58C-F788E112ABD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562BDFB2-F6A9-47BD-9D93-5A1EFE88CB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562BDFB2-F6A9-47BD-9D93-5A1EFE88CB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562BDFB2-F6A9-47BD-9D93-5A1EFE88CB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562BDFB2-F6A9-47BD-9D93-5A1EFE88CB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C247D97-F34B-4CA0-93F8-C189A50D7FAF}
+	EndGlobalSection
+EndGlobal
